@@ -1,0 +1,15 @@
+dependencies:
+- rpm:
+  - gcc
+  - glibc-devel
+  - automake
+  - autoconf
+  - valgrind
+  - gdb
+  - strace
+devassistant_version: 0.11.2
+original_kwargs:
+  github: mhcrnl
+  name: /home/mhcrnl/Documents/GNOME/Aplicatii/MyGNOMEproject
+project_type:
+- c
